@@ -1,6 +1,22 @@
 import json
 import os
 
+# Função para verificar e instalar as dependências necessárias
+def verificar_instalar_dependencias():
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+    except ImportError:
+        print("Bibliotecas necessárias não encontradas.")
+        choice = input("Deseja instalar as bibliotecas necessárias? (s/n): ").strip().lower()
+        if choice == 's':
+            os.system('pip install -r requirements.txt')
+        else:
+            print("Instalação cancelada. O programa pode não funcionar corretamente.")
+            input("\nPressione Enter para continuar...")
+            return False
+    return True
+
 def modificar_config(opcao):
     # Abrir o arquivo config.json e modificar a opção "cortar_logomarca"
     try:
@@ -34,6 +50,10 @@ def carregar_script():
         print("Script code/main.py não encontrado.")
 
 def main():
+    # Verificar e instalar as dependências necessárias
+    if not verificar_instalar_dependencias():
+        return
+
     # Carregar o estado atual de cortar_logomarca do config.json
     try:
         with open('config.json', 'r') as f:
