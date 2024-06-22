@@ -1,4 +1,4 @@
-# Ifunny-Downloader [![Views](https://hits.sh/github.com/e43bifunnybr/hits.svg)](https://github.com/e43b/Anibunker-Downloader/)
+# Ifunny-Downloader [![Views](https://hits.sh/github.com/e43bifunnyen/hits.svg)](https://github.com/e43b/Anibunker-Downloader/)
 
 ###### [![](img/en.svg) English](README.md) | [![](img/br.png) Português](README-ptbr.md)
 
