@@ -4,6 +4,8 @@
 
 Ifunny-Downloader é uma ferramenta versátil projetada para baixar posts do site Ifunny [ifunny](https://ifunny.co/).
 
+Baixe vídeos e imagens dos posts do site Ifunny.co usando esta ferramenta. Ela permite o download dos posts e oferece a funcionalidade de remover automaticamente o logo do Ifunny. Além disso, você pode baixar múltiplos posts sequencialmente de forma simples e eficiente.
+
 ## Como Usar
 
 1. **Certifique-se de ter o Python instalado em seu sistema.**
