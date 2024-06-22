@@ -1,67 +1,67 @@
-# Ifunny-Downloader
+# Ifunny-Downloader [![Views](https://hits.sh/github.com/e43bifunnybr/hits.svg)](https://github.com/e43b/Anibunker-Downloader/)
 
 ###### [![](img/en.svg) English](README.md) | [![](img/br.png) Português](README-ptbr.md)
 
-Ifunny-Downloader é uma ferramenta versátil projetada para baixar posts do site Ifunny [ifunny](https://ifunny.co/).
+Ifunny-Downloader is a versatile tool designed to download posts from the Ifunny website [ifunny](https://ifunny.co/).
 
-## Como Usar
+## How to Use
 
-1. **Certifique-se de ter o Python instalado em seu sistema.**
-2. **Clone este repositório:**
+1. **Make sure you have Python installed on your system.**
+2. **Clone this repository:**
 
     ```sh
     git clone https://github.com/e43b/Ifunny-Downloader/
     ```
 
-3. **Navegue até o diretório do projeto:**
+3. **Navigate to the project directory:**
 
     ```sh
     cd Ifunny-Downloader
     ```
 
-4. **Selecione o idioma desejado:**
+4. **Choose your desired language:**
 
-    - A pasta `codeen` contém a versão em inglês.
-    - A pasta `codept` contém a versão em português.
+    - The `codeen` folder contains the English version.
+    - The `codept` folder contains the Portuguese version.
 
-5. **Execute o script principal:**
+5. **Run the main script:**
 
     ```sh
     python main.py
     ```
 
-6. **Siga as instruções no menu para escolher o que deseja baixar ou personalizar o programa.**
+6. **Follow the instructions in the menu to choose what to download or customize the program.**
 
-## Funcionalidades
+## Features
 
-- **Download Individual e em Lote**: Baixe posts individuais ou vários posts sequencialmente inserindo os URLs separados por vírgulas.
-- **Remova a Logo do Ifunny**: Remova a logo de imagens baixadas do Ifunny automaticamente
+- **Individual and Batch Download**: Download individual posts or multiple posts sequentially by entering their URLs separated by commas.
+- **Remove Ifunny Logo**: Automatically remove the Ifunny logo from downloaded images.
 
 ![Home](img/home.png)
 
-### Uso
+### Usage
 
-Para usar o Ifunny Downloader, forneça os URLs dos posts que deseja baixar, separados por vírgulas. Por exemplo:
+To use the Ifunny Downloader, provide the URLs of the posts you want to download, separated by commas. For example:
 
 ```
 https://ifunny.co/picture/huh-there-s-wo-enemies-let-s-see-whose-those-5zRlotuXB , https://br.ifunny.co/picture/eu-o-que-um-homein-como-voce-ilwmsMsXB,https://ifunny.co/picture/what-wild-opinion-Q7drZr4YB, https://br.ifunny.co/video/i2V9Zm2YB
 ```
 
-### Informações do Projeto e Suporte
+### Project Information and Support
 
-- **Criador**: E43b
-- **GitHub**: [E43b no GitHub](https://github.com/e43b)
-- **Discord**: [Junte-se à comunidade no Discord](https://discord.gg/Q6nQ3vsWTF)
-- **Repositório do Projeto**: [Repositório Pixiv-DL](https://github.com/e43b/Ifunny-Downloader)
+- **Creator**: E43b
+- **GitHub**: [E43b on GitHub](https://github.com/e43b)
+- **Discord**: [Join the community on Discord](https://discord.gg/Q6nQ3vsWTF)
+- **Project Repository**: [Ifunny-Downloader Repository](https://github.com/e43b/Ifunny-Downloader)
 
-Para dúvidas, feedback ou para se juntar à comunidade, visite o servidor do [Discord](https://discord.gg/Q6nQ3vsWTF) ou explore o [repositório no GitHub](Ifunny-Downloader).
+For questions, feedback, or to join the community, visit the [Discord server](https://discord.gg/Q6nQ3vsWTF) or explore the [GitHub repository](https://github.com/e43b/Ifunny-Downloader).
 
-### Apoie o Projeto
+### Support the Project
 
-Se você acha esta ferramenta útil e gostaria de apoiar seu desenvolvimento contínuo, considere fazer uma doação. Sua contribuição ajuda a manter o projeto ativo e a desenvolver novas funcionalidades.
+If you find this tool useful and would like to support its continued development, consider making a donation. Your contribution helps keep the project active and develop new features.
 
-#### Faça uma doação acessando [este link](https://oxapay.com/donate/40874860).
+#### Make a donation by accessing [this link](https://oxapay.com/donate/40874860).
 
-## Contribuições
+## Contributions
 
-Este projeto é de código aberto e você é encorajado a contribuir para melhorias e novas funcionalidades. Sinta-se à vontade para enviar sugestões, relatar problemas ou enviar pull requests através do [repositório oficial no GitHub](https://github.com/e43b/Ifunny-Downloader/) ou por meio do nosso [Discord](https://discord.gg/Q6nQ3vsWTF).
+This project is open-source, and you are encouraged to contribute to improvements and new features. Feel free to submit suggestions, report issues, or send pull requests through the [official GitHub repository](https://github.com/e43b/Ifunny-Downloader/) or via our [Discord](https://discord.gg/Q6nQ3vsWTF).
